@@ -16,7 +16,7 @@ Permalink: /about/
 - 🚴🏾I like going on adventures like hiking,zipling, swiming
 
 ### More Information
-- I used to play football🏈, 🥋karate, and 🏋️‍♂️gymnastics 
+- I used to play football🏈, karate🥋, and gymnastics🏋️
 
 ### Contact me
 
