@@ -16,6 +16,7 @@ I think my ability to rapidly understand and effectively express complicated sub
 
 This summer during my internship, I want to focus on honing my C++ and programming abilities. In order to do this, I intend to immerse myself in practical tasks, look for mentoring from seasoned friends, and set aside time for practice. I am confident that this concentrated effort will greatly improve both my overall professional growth and my contribution to the team.
 
+https://www.geeksforgeeks.org/introduction-to-open-source-and-its-benefits/
 
 
 
