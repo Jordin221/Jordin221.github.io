@@ -18,9 +18,7 @@ This summer during my internship, I want to focus on honing my C++ and programmi
 
 https://www.geeksforgeeks.org/introduction-to-open-source-and-its-benefits/
 
-
-
-
+![IMG_7279](https://github.com/Jordin221/Jordin221.github.io/assets/173185647/e1164f8f-ac8a-4f5d-aa05-bd1efc79dd9f)
 
 
 
