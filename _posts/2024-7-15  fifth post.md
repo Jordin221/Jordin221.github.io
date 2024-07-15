@@ -2,6 +2,5 @@
 layout: post
 title: Mid-point goals
 ---
-What progress have you made towards your goal so far?
-What can you do between now and the end of the program to keep working on it?
-What can Emily and/or Silas do to support you in reaching your goal?
+What progress have you made towards your goal so far? 
+Even though I haven't had the chance to personally contribute to open-source projects yet, I am aware of how important they are for encouraging innovation and collaboration in the computing industry. I can't wait to participate in these settings and exchange and absorb knowledge from others. I have learn a little bit more about open sourcing about pulling code to my local drive and pushing it to my main. I have learn about edit code and making branching so it doesnt change my main code. I have learn quite abit about open source programing. What can I do to learn more about open source is looking at projects about open source and finding new ways to code. Good thing i have mentors to help with this. I would say I have incredible mentors with their assistance and knowledge of open-source coding, Emily and Silas can truly assist me in achieving my objectives. Particularly when it comes to understanding the best practices and methods for contributing to open-source projects, their advice and expertise are extremely beneficial. In addition, I would value their opinions on my code and any advice they might provide me to help me become more proficient in this cooperative environment.
