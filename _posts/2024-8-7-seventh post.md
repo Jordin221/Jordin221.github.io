@@ -1,6 +1,9 @@
+
 ---
-layout:post
+layout: post
+title: OpenSSF
 ---
+
 ### What have you done so far relating to the OpenSSF ecosystem? (Did you follow tutorials? Talk to the community? Read documentation? Explore the code?)
 
 To at this point we have interacted with the OpenSSF ecosystem by carefully reading the Scorecard documentation in order to get a firm understanding of the specifics and how its parameters operate. 
